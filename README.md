@@ -21,7 +21,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/employee-review-sys
+ - Link : https://github.com/Ajayyadav76142/Employee-Review-System.git
 
 
 #### Deployment Link:
